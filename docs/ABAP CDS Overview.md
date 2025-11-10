@@ -1,3 +1,9 @@
+---
+layout: default
+title: ABAP CDS Overview
+description: Introduction to ABAP Core Data Services and data modeling concepts
+---
+
 #sap
 #sap/abapcds
 ![[Pasted image 20251102194531.png]]

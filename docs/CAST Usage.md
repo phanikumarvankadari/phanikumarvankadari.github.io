@@ -1,3 +1,9 @@
+---
+layout: default
+title: CAST Usage
+description: ABAP development notes and examples for CAST Usage
+---
+
 # ABAP CAST — Usage
 
 CAST changes a reference’s static type within inheritance/interface hierarchies.

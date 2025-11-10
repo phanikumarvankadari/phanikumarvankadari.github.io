@@ -1,3 +1,9 @@
+---
+layout: default
+title: Table Expressions Usage
+description: ABAP development notes and examples for Table Expressions Usage
+---
+
 # ABAP Table Expressions — Usage
 
 Table expressions access a specific row inline: `itab[ ... ]`. They are concise and can be used in expressions.

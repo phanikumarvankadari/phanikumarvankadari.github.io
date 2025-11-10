@@ -1,3 +1,9 @@
+---
+layout: default
+title: Enhancement Point
+description: ABAP development notes and examples for Enhancement Point
+---
+
 #abap #sap-learning #enhancements
 # Enhancement Point
 

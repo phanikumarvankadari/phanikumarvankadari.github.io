@@ -1,3 +1,9 @@
+---
+layout: default
+title: Report Events and ALV Cookbook
+description: ABAP development notes and examples for Report Events and ALV Cookbook
+---
+
 #abap #sap-learning #reports #alv
 # Report Events and ALV Cookbook
 

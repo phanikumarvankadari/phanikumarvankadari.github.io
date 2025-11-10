@@ -1,3 +1,9 @@
+---
+layout: default
+title: Main
+description: ABAP development notes and examples for Main
+---
+
 #abap #sap-learning #abapcds
 # ABAP cook book
 

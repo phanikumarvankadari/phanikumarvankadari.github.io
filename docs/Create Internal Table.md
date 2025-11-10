@@ -1,3 +1,9 @@
+---
+layout: default
+title: Create Internal Table
+description: ABAP development notes and examples for Create Internal Table
+---
+
 #abap #sap-learning #cookbook
 # Create Internal Table
 

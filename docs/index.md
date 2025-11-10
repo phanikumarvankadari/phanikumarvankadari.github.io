@@ -1,3 +1,9 @@
+---
+layout: default
+title: index
+description: ABAP development notes and examples for index
+---
+
 # ABAP Learning Toolkit
 
 Welcome to the ABAP Learning Toolkit - a comprehensive collection of ABAP programming notes, examples, and best practices for SAP developers.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: SWITCH Usage
+description: ABAP development notes and examples for SWITCH Usage
+---
+
 # ABAP SWITCH — Usage
 
 SWITCH selects a value based on cases (like CASE as expression).

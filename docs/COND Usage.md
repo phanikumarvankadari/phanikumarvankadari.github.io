@@ -1,3 +1,9 @@
+---
+layout: default
+title: COND Usage
+description: ABAP development notes and examples for COND Usage
+---
+
 # ABAP COND — Usage
 
 COND is IF/ELSE as an expression that yields a value.

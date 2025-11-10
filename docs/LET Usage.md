@@ -1,3 +1,9 @@
+---
+layout: default
+title: LET Usage
+description: ABAP development notes and examples for LET Usage
+---
+
 # ABAP LET — Usage
 
 LET defines temporary variables inside expression contexts (COND/SWITCH/REDUCE).

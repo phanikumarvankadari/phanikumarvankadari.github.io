@@ -1,3 +1,9 @@
+---
+layout: default
+title: Adobe Forms
+description: ABAP development notes and examples for Adobe Forms
+---
+
 #abap #sap-learning #forms
 # Adobe Forms
 

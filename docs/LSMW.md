@@ -1,3 +1,9 @@
+---
+layout: default
+title: LSMW
+description: ABAP development notes and examples for LSMW
+---
+
 #abap #sap-learning #interfaces
 # LSMW
 

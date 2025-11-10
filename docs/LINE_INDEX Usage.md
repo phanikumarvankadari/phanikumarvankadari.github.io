@@ -1,3 +1,9 @@
+---
+layout: default
+title: LINE_INDEX Usage
+description: ABAP development notes and examples for LINE_INDEX Usage
+---
+
 # ABAP line_index — Usage
 
 line_index( itab[ ... ] ) returns the index of a row for index tables; 0 if not found. Useful to combine with `READ TABLE ... INDEX` or `DELETE ... INDEX`.

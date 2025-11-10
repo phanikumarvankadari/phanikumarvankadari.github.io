@@ -1,3 +1,9 @@
+---
+layout: default
+title: SPROXY
+description: ABAP development notes and examples for SPROXY
+---
+
 #abap #sap-learning #interfaces
 # SPROXY
 

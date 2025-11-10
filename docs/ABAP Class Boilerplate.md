@@ -1,3 +1,9 @@
+---
+layout: default
+title: ABAP Class Boilerplate
+description: ABAP development notes and examples for ABAP Class Boilerplate
+---
+
 #abap #sap-learning #cookbook
 # ABAP Class Boilerplate
 

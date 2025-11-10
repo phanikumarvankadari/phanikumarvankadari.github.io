@@ -1,3 +1,9 @@
+---
+layout: default
+title: Customer Exits
+description: ABAP development notes and examples for Customer Exits
+---
+
 #abap #sap-learning #enhancements
 # Customer Exits
 

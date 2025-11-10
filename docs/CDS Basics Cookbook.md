@@ -1,3 +1,9 @@
+---
+layout: default
+title: CDS Basics Cookbook
+description: Practical CDS examples and patterns for common scenarios
+---
+
 #abap #sap-learning #abapcds #cookbook
 # CDS Basics Cookbook
 

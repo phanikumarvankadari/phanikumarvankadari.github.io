@@ -1,3 +1,9 @@
+---
+layout: default
+title: AGENTS
+description: ABAP development notes and examples for AGENTS
+---
+
 # Repository Guidelines
 
 ## Project Structure & Organization

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Object Oriented ABAP
+description: Core OOP concepts, classes, interfaces, inheritance, and design patterns in ABAP
+---
+
 # Object Oriented ABAP – Important Topics
 
 ## Core OOP

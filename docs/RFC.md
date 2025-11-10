@@ -1,3 +1,9 @@
+---
+layout: default
+title: RFC
+description: ABAP development notes and examples for RFC
+---
+
 #abap #sap-learning #interfaces
 # RFC
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Dynamic SELECT
+description: Dynamic Open SQL patterns and best practices
+---
+
 #abap #sap-learning #cookbook
 # Dynamic SELECT
 

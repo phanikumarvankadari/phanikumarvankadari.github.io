@@ -1,3 +1,9 @@
+---
+layout: default
+title: FILTER Usage
+description: ABAP development notes and examples for FILTER Usage
+---
+
 # ABAP FILTER — Usage
 
 FILTER keeps rows matching a condition (or removes them with EXCEPT).
