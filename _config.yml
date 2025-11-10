@@ -22,3 +22,4 @@ exclude:
   - .jekyll-cache/
   - vendor/
   - .DS_Store
+  - .github-pages-trigger
