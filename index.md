@@ -89,6 +89,7 @@ These are ready-to-use code templates and patterns:
 - [Dynamic SELECT](Dynamic%20SELECT.html) — Build dynamic Open SQL (WHERE, fields, ORDER BY)
 - [Get Unique Values from Itab](Get%20Unique%20Values%20from%20Itab.html) — Utility patterns for data processing
 - [Report Events and ALV Cookbook](Report%20Events%20and%20ALV%20Cookbook.html) — Complete examples with events
+- [SAP Scripts Tutorial](SAP%20Scripts%20Tutorial.html) — Step-by-step guide to creating SAP Script forms from scratch
 
 ### Enhancements
 - [User Exits](User%20Exits.html)
