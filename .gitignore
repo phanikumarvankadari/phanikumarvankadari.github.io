@@ -23,3 +23,10 @@ pids
 # IDE
 .vscode/
 .idea/
+
+# Agent and AI files
+agents.md
+gemini.md
+
+# Jekyll generated files
+docs/_site/

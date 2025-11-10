@@ -4,102 +4,110 @@ title: index
 description: ABAP development notes and examples for index
 ---
 
-# ABAP Learning Toolkit
+# Code Repository
 
-Welcome to the ABAP Learning Toolkit - a comprehensive collection of ABAP programming notes, examples, and best practices for SAP developers.
+Welcome to the Code Repository - a comprehensive collection of ABAP programming notes, examples, and best practices for SAP developers.
 
-## 📚 Quick Navigation
+## Quick Navigation
 
 ### Advanced ABAP
 
 #### Object-Oriented Programming
-- [Object Oriented ABAP](Object%20Oriented%20ABAP.md)
+- [Object Oriented ABAP](Object%20Oriented%20ABAP.html)
 
 #### Formatting & Conversions
-- [ABAP Formatting](ABAP%20Formatting.md)
-- [ABAP Conversions](ABAP%20Conversions.md)
+- [ABAP Formatting](ABAP%20Formatting.html)
+- [ABAP Conversions](ABAP%20Conversions.html)
 
 #### Tables & ALV
-- [Internal Table Handling](Internal%20Table%20Handling.md)
-- [ABAP Dynamic Internal Table and ALV](ABAP%20Dynamic%20Internal%20Table%20and%20ALV.md)
-- [ALV Grid](ALV%20Grid.md)
-- [ALV Grid OOP](ALV%20Grid%20OOP.md)
-- [ALV List](ALV%20List.md)
-- [SALV](SALV.md)
+- [Internal Table Handling](Internal%20Table%20Handling.html)
+- [ABAP Dynamic Internal Table and ALV](ABAP%20Dynamic%20Internal%20Table%20and%20ALV.html)
+- [ALV Grid](ALV%20Grid.html)
+- [ALV Grid OOP](ALV%20Grid%20OOP.html)
+- [ALV List](ALV%20List.html)
+- [SALV](SALV.html)
+- [Minimal ALV Grid](Minimal%20ALV%20Grid.html)
+- [Editable ALV](Editable%20ALV.html)
 
 #### Expressions & Constructors
-- [VALUE Usage](VALUE%20Usage.md)
-- [COND Usage](COND%20Usage.md)
-- [SWITCH Usage](SWITCH%20Usage.md)
-- [REDUCE Usage](REDUCE%20Usage.md)
-- [FILTER Usage](FILTER%20Usage.md)
-- [CORRESPONDING Usage](CORRESPONDING%20Usage.md)
-- [NEW Usage](NEW%20Usage.md)
-- [CONV Usage](CONV%20Usage.md)
-- [EXACT Usage](EXACT%20Usage.md)
-- [CAST Usage](CAST%20Usage.md)
-- [LET Usage](LET%20Usage.md)
-- [Table Expressions Usage](Table%20Expressions%20Usage.md)
-- [LINE_EXISTS Usage](LINE_EXISTS%20Usage.md)
-- [LINE_INDEX Usage](LINE_INDEX%20Usage.md)
+- [VALUE Usage](VALUE%20Usage.html)
+- [COND Usage](COND%20Usage.html)
+- [SWITCH Usage](SWITCH%20Usage.html)
+- [REDUCE Usage](REDUCE%20Usage.html)
+- [FILTER Usage](FILTER%20Usage.html)
+- [CORRESPONDING Usage](CORRESPONDING%20Usage.html)
+- [NEW Usage](NEW%20Usage.html)
+- [CONV Usage](CONV%20Usage.html)
+- [EXACT Usage](EXACT%20Usage.html)
+- [CAST Usage](CAST%20Usage.html)
+- [LET Usage](LET%20Usage.html)
+- [Table Expressions Usage](Table%20Expressions%20Usage.html)
+- [LINE_EXISTS Usage](LINE_EXISTS%20Usage.html)
+- [LINE_INDEX Usage](LINE_INDEX%20Usage.html)
 
 #### Error Handling
-- [ABAP Error Handling](ABAP%20Error%20Handling.md)
-- [MESSAGE - Error Log](MESSAGE%20-%20Error%20Log.md)
+- [ABAP Error Handling](ABAP%20Error%20Handling.html)
+- [MESSAGE - Error Log](MESSAGE%20-%20Error%20Log.html)
+
+#### Advanced Topics
+- [0 - Advanced ABAP](0%20-%20Advanced%20ABAP.html)
+- [ABAP Runtime Analysis](ABAP%20Runtime%20Analysis.html)
+- [Loops](Loops.html)
 
 ### CDS & RAP
-- [ABAP CDS Overview](ABAP%20CDS%20Overview.md)
-- [CDS Basics Cookbook](CDS%20Basics%20Cookbook.md)
-- [CDS Enhancements](CDS%20Enhancements.md)
-- [RAP Enhancement](RAP%20Enhancement.md)
+- [ABAP CDS Overview](ABAP%20CDS%20Overview.html)
+- [CDS Basics Cookbook](CDS%20Basics%20Cookbook.html)
+- [CDS Enhancements](CDS%20Enhancements.html)
+- [RAP Enhancement](RAP%20Enhancement.html)
+- [RAP Behavior Class Boilerplate](RAP%20Behavior%20Class%20Boilerplate.html)
+- [Tables to CDS](Tables%20to%20CDS.html)
+- [Display CDS Using ALV](Display%20CDS%20Using%20ALV.html)
 
 ### Interfaces & Integration
-- [ALE](ALE.md)
-- [IDocs](IDocs.md)
-- [SPROXY](SPROXY.md)
-- [Enterprise Services](Enterprise%20Services.md)
-- [RFC](RFC.md)
-- [BAPI](BAPI.md)
-- [BDC](BDC.md)
-- [LSMW](LSMW.md)
+- [ALE](ALE.html)
+- [IDocs](IDocs.html)
+- [SPROXY](SPROXY.html)
+- [Enterprise Services](Enterprise%20Services.html)
+- [RFC](RFC.html)
+- [BAPI](BAPI.html)
+- [BDC](BDC.html)
+- [LSMW](LSMW.html)
 
 ### Forms
-- [SAP Scripts](SAP%20Scripts.md)
-- [SAP Smart Forms](SAP%20Smart%20Forms.md)
-- [Adobe Forms](Adobe%20Forms.md)
+- [SAP Scripts](SAP%20Scripts.html)
+- [SAP Smart Forms](SAP%20Smart%20Forms.html)
+- [Adobe Forms](Adobe%20Forms.html)
 
 ### Quick Start Recipes
 
 These are ready-to-use code templates and patterns:
 
-1. **[Create Internal Table](Create%20Internal%20Table.md)** — Patterns to define and populate itabs
-2. **[OData Error Handling](OData%20Error%20Handling.md)** — V2 business/tech exceptions boilerplate
-3. **[ABAP Report Boilerplate](ABAP%20Report%20Boilerplate.md)** — Minimal report with selection and error handling
-4. **[ABAP Class Boilerplate](ABAP%20Class%20Boilerplate.md)** — Minimal global class skeleton
-5. **[Minimal ALV Grid](Minimal%20ALV%20Grid.md)** — Tiniest SALV display from an itab
-6. **[RAP Behavior Class Boilerplate](RAP%20Behavior%20Class%20Boilerplate.md)** — Minimal RAP behavior pool skeleton
-7. **[Tables to CDS](Tables%20to%20CDS.md)** — From custom tables to CDS with associations
-8. **[Display CDS Using ALV](Display%20CDS%20Using%20ALV.md)** — Display CDS entities (incl. parameterized) in SALV
-9. **[Dynamic SELECT](Dynamic%20SELECT.md)** — Build dynamic Open SQL (WHERE, fields, ORDER BY)
+- [Create Internal Table](Create%20Internal%20Table.html) — Patterns to define and populate itabs
+- [OData Error Handling](OData%20Error%20Handling.html) — V2 business/tech exceptions boilerplate
+- [ABAP Report Boilerplate](ABAP%20Report%20Boilerplate.html) — Minimal report with selection and error handling
+- [ABAP Class Boilerplate](ABAP%20Class%20Boilerplate.html) — Minimal global class skeleton
+- [Dynamic SELECT](Dynamic%20SELECT.html) — Build dynamic Open SQL (WHERE, fields, ORDER BY)
+- [Get Unique Values from Itab](Get%20Unique%20Values%20from%20Itab.html) — Utility patterns for data processing
+- [Report Events and ALV Cookbook](Report%20Events%20and%20ALV%20Cookbook.html) — Complete examples with events
 
 ### Enhancements
-- [User Exits](User%20Exits.md)
-- [Customer Exits](Customer%20Exits.md)
-- [Enhancement Point](Enhancement%20Point.md)
+- [User Exits](User%20Exits.html)
+- [Customer Exits](Customer%20Exits.html)
+- [Enhancement Point](Enhancement%20Point.html)
 
 ---
 
-## 🚀 About This Toolkit
+## About This Toolkit
 
 This collection is designed to help ABAP developers quickly find code patterns, best practices, and solutions for common programming tasks. Each note contains practical examples and explanations that you can use directly in your projects.
 
-## 📖 How to Use
+## How to Use
 
 1. **Browse by Category**: Use the navigation above to find topics of interest
 2. **Search**: Use your browser's search function (Ctrl/Cmd + F) to find specific topics
 3. **Copy & Adapt**: Most examples are designed to be copied and adapted for your specific needs
 
-## 🤝 Contributing
+## Contributing
 
 This is a living document that grows with experience. If you have suggestions or improvements, please feel free to contribute.
 

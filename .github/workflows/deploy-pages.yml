@@ -1,4 +1,4 @@
-name: Deploy ABAP Learning Toolkit to GitHub Pages
+name: Deploy Code Repository to GitHub Pages
 
 on:
   push:

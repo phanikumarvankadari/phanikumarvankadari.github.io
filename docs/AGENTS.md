@@ -23,11 +23,9 @@ description: ABAP development notes and examples for AGENTS
 - Optional lint: `markdownlint "**/*.md"` if installed; fix headings, lists, fenced blocks.
 - Optional format: `prettier -w "**/*.md"` if present. Avoid mass reflows that harm diff clarity.
 
-## Commit & Pull Request Guidelines
+## Commit Guidelines
 - Commit messages: `<type>: <summary>` where type ∈ {docs, content, fix, chore}. Examples: `docs: clarify CDS annotations`, `content: add ABAP runtime analysis notes`.
 - Scope small and topical; prefer incremental commits over large reorganizations.
-- PRs: include a brief description, screenshots of changed diagrams/renders, and link related issues or notes (`[[Note Name]]`).
-- Avoid renaming existing notes unless necessary; if renaming, update all wikilinks in the PR.
 
 ## Security & Configuration
 - Do not include credentials, system IDs, or customer data. Use placeholders like `MANDT 000` and `USER DEMO`.

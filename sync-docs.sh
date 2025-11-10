@@ -6,7 +6,7 @@ set -e
 NOTES_DIR="/Users/phani/lcoal_ws/obsidian/vault_2025/vault_2025/2 - Resources/SAP Learning/ABAP Learning/notes"
 DOCS_DIR="$NOTES_DIR/docs"
 
-echo "🔄 Syncing ABAP Learning Toolkit to docs folder..."
+echo "Syncing Code Repository to docs folder..."
 
 # Function to add front matter to a markdown file
 add_front_matter() {
@@ -16,7 +16,7 @@ add_front_matter() {
     
     # Check if file already has front matter
     if head -1 "$file" | grep -q "^---$"; then
-        echo "  ✓ $file already has front matter"
+        echo "  File $file already has front matter"
         return
     fi
     
@@ -36,7 +36,7 @@ EOF
     # Replace original file
     mv "$file.tmp" "$file"
     
-    echo "  ✓ Added front matter to $file"
+    echo "  Added front matter to $file"
 }
 
 # Copy all markdown files
