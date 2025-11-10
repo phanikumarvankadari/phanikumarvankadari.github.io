@@ -15,4 +15,4 @@ Notes on SPROXY (Enterprise Services) proxy generation and usage.
 - Error handling and logging.
 
 ## See Also
-- [[Enterprise Services]]
+- [Enterprise Services](Enterprise%20Services.html)

@@ -11,7 +11,7 @@ Two end-to-end report snippets you can paste into SE38/ADT:
 - Example 1 shows most selection-screen widgets, common report events, and classic ALV List (REUSE_ALV_LIST_DISPLAY) with zebra, header, alignment, and totals.
 - Example 2 shows a minimal SALV Grid using the OO API with zebra, auto column optimize, right-justified numeric columns, header, and aggregations.
 
-See also: [[ALV List]], [[SALV]], [[ABAP Report Boilerplate]].
+See also: [ALV List](ALV%20List.html), [SALV](SALV.html), [ABAP Report Boilerplate](ABAP%20Report%20Boilerplate.html).
 
 ## Example 1 — Report Events + Selection Screen + Classic ALV List
 

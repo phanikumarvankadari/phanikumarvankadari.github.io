@@ -8,7 +8,7 @@ description: ABAP development notes and examples for MESSAGE - Error Log
 
 # MESSAGE - Error Log
 
-Quick patterns for collecting, exporting, and raising messages. See [[ABAP Error Handling]] for broader context and more variants.
+Quick patterns for collecting, exporting, and raising messages. See [ABAP Error Handling](ABAP%20Error%20Handling.html) for broader context and more variants.
 
 ## OData v2: Collect BAPI messages into `lt_message`
 ```abap
