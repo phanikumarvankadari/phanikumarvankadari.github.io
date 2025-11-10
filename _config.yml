@@ -5,7 +5,7 @@ url: "https://phanikumarvankadari.github.io"
 
 # Exclude files from processing
 exclude:
-  - README.md
+  - REPOSITORY.md
   - docs/
   - sync-docs.sh
   - AGENTS.md
