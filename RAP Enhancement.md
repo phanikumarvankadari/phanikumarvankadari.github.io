@@ -1,3 +1,9 @@
+---
+layout: default
+title: "RAP Enhancement"
+description: ABAP development notes and examples for RAP Enhancement
+---
+
 #abap #sap-learning #enhancements #rap
 # RAP Enhancement
 

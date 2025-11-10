@@ -1,3 +1,9 @@
+---
+layout: default
+title: "EXACT Usage"
+description: ABAP development notes and examples for EXACT Usage
+---
+
 # ABAP EXACT — Usage
 
 EXACT performs lossless/checked conversions; raises on overflow/precision loss.

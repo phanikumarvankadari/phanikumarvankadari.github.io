@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Display CDS Using ALV"
+description: ABAP development notes and examples for Display CDS Using ALV
+---
+
 #abap #sap-learning #cookbook #alv #abapcds
 # CDS Using ALV
 

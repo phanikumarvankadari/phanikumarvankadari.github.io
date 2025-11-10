@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NEW Usage"
+description: ABAP development notes and examples for NEW Usage
+---
+
 # ABAP NEW — Usage
 
 NEW creates objects or data with constructors as an expression.

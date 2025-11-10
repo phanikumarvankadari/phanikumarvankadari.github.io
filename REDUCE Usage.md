@@ -1,3 +1,9 @@
+---
+layout: default
+title: "REDUCE Usage"
+description: ABAP development notes and examples for REDUCE Usage
+---
+
 # ABAP REDUCE — Usage
 
 REDUCE folds a collection to a single value.

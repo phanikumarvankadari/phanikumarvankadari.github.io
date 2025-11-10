@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ALV Grid"
+description: ABAP development notes and examples for ALV Grid
+---
+
 cds view to alvgrid
 ```abap
 cl_salv_gui_table_ids=>create_for_cds_ciew( '<CDS view name>' )->fullscreen( )->display( ).

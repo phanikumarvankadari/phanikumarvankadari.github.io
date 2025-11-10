@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Minimal ALV Grid"
+description: ABAP development notes and examples for Minimal ALV Grid
+---
+
 #abap #sap-learning #cookbook #alv
 # Minimal ALV Grid
 

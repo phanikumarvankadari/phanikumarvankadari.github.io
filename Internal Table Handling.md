@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Internal Table Handling"
+description: ABAP development notes and examples for Internal Table Handling
+---
+
 # Internal Table Handling (ABAP)
 
 ## Looping Techniques

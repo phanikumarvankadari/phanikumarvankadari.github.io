@@ -1,3 +1,9 @@
+---
+layout: default
+title: "OData Error Handling"
+description: ABAP development notes and examples for OData Error Handling
+---
+
 #abap #sap-learning #cookbook #odata
 # OData Error Handling
 

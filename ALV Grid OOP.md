@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ALV Grid OOP"
+description: ABAP development notes and examples for ALV Grid OOP
+---
+
 #abap #sap-learning #alv
 # ALV Grid OOP
 

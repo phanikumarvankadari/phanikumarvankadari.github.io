@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CDS Basics Cookbook"
+description: ABAP development notes and examples for CDS Basics Cookbook
+---
+
 #abap #sap-learning #abapcds #cookbook
 # CDS Basics Cookbook
 

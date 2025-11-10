@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ABAP CDS Overview"
+description: ABAP development notes and examples for ABAP CDS Overview
+---
+
 #sap
 #sap/abapcds
 ![[Pasted image 20251102194531.png]]

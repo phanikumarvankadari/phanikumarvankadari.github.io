@@ -1,3 +1,9 @@
+---
+layout: default
+title: "0 - Advanced ABAP"
+description: ABAP development notes and examples for 0 - Advanced ABAP
+---
+
 # Advanced ABAP
 
 Quick index of topics with links to detailed notes and boilerplates.

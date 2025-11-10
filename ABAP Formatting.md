@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ABAP Formatting"
+description: ABAP development notes and examples for ABAP Formatting
+---
+
 # ABAP Formatting (String Templates)
 
 String templates are the preferred way to build strings in modern ABAP.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Object Oriented ABAP"
+description: ABAP development notes and examples for Object Oriented ABAP
+---
+
 # Object Oriented ABAP – Important Topics
 
 ## Core OOP

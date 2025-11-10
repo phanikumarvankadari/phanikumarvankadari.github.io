@@ -1,0 +1,30 @@
+title: Code Repository
+description: Comprehensive ABAP programming notes, examples, and best practices for SAP developers
+baseurl: ""
+url: "https://phanikumarvankadari.github.io"
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - docs/
+  - sync-docs.sh
+  - AGENTS.md
+  - Gemfile
+  - Gemfile.lock
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Basic plugins only
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .DS_Store

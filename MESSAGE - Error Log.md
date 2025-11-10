@@ -1,3 +1,9 @@
+---
+layout: default
+title: "MESSAGE - Error Log"
+description: ABAP development notes and examples for MESSAGE - Error Log
+---
+
 #abap #sap-learning #odata #message #error-handling
 
 # MESSAGE - Error Log

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "BAPI"
+description: ABAP development notes and examples for BAPI
+---
+
 #abap #sap-learning #interfaces
 # BAPI
 

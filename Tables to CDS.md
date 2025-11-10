@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Tables to CDS"
+description: ABAP development notes and examples for Tables to CDS
+---
+
 #abap #sap-learning #abapcds #cookbook
 # Tables to CDS
 

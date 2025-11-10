@@ -1,3 +1,9 @@
+---
+layout: default
+title: "LINE_EXISTS Usage"
+description: ABAP development notes and examples for LINE_EXISTS Usage
+---
+
 # ABAP line_exists — Usage
 
 line_exists( itab[ ... ] ) checks if a row exists for a table expression without raising an exception.

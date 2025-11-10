@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ABAP Dynamic Internal Table and ALV"
+description: ABAP development notes and examples for ABAP Dynamic Internal Table and ALV
+---
+
 x# ABAP Dynamic Internal Table and ALV
 
 Dynamic internal tables are created at runtime when the structure is not known at compile-time. Common approaches:

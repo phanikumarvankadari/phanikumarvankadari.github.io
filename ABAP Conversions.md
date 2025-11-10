@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ABAP Conversions"
+description: ABAP development notes and examples for ABAP Conversions
+---
+
 # ABAP Conversions (Inline)
 
 Inline conversions let you convert values directly in expressions without temp variables.

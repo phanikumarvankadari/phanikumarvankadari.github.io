@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ABAP Error Handling"
+description: ABAP development notes and examples for ABAP Error Handling
+---
+
 # ABAP Error Handling
 
 ## Class-Based Exceptions (CX_ROOT hierarchy)

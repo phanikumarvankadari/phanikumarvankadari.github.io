@@ -1,3 +1,9 @@
+---
+layout: default
+title: "VALUE Usage"
+description: ABAP development notes and examples for VALUE Usage
+---
+
 # ABAP VALUE — Usage
 
 VALUE constructs and initializes structures/tables inline; `VALUE #(...)` infers type from context.

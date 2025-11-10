@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Enterprise Services"
+description: ABAP development notes and examples for Enterprise Services
+---
+
 #abap #sap-learning #interfaces
 # Enterprise Services
 

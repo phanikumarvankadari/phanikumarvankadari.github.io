@@ -1,3 +1,9 @@
+---
+layout: default
+title: "RAP Behavior Class Boilerplate"
+description: ABAP development notes and examples for RAP Behavior Class Boilerplate
+---
+
 #abap #sap-learning #cookbook #rap
 # RAP Behavior Class Boilerplate
 

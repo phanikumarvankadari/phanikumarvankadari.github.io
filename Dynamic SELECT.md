@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dynamic SELECT"
+description: ABAP development notes and examples for Dynamic SELECT
+---
+
 #abap #sap-learning #cookbook
 # Dynamic SELECT
 

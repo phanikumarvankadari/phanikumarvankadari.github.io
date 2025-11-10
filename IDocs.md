@@ -1,3 +1,9 @@
+---
+layout: default
+title: "IDocs"
+description: ABAP development notes and examples for IDocs
+---
+
 #abap #sap-learning #interfaces
 # IDocs
 

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "ABAP Report Boilerplate"
+description: ABAP development notes and examples for ABAP Report Boilerplate
+---
+
 #abap #sap-learning #cookbook
 # ABAP Report Boilerplate
 

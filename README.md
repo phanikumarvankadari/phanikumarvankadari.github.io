@@ -2,9 +2,11 @@
 
 A comprehensive collection of ABAP programming notes, examples, and best practices for SAP developers.
 
-## View Online
+## 🌐 View Documentation Website
 
-This documentation is published as GitHub Pages at: **[Your GitHub Pages URL will be here]**
+**[📖 Access the full documentation at: https://phanikumarvankadari.github.io/docs/](https://phanikumarvankadari.github.io/docs/)**
+
+*This README is for repository information only. The formatted documentation with navigation is available at the link above.*
 
 ## What's Inside
 

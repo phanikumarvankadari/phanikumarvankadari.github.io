@@ -1,3 +1,9 @@
+---
+layout: default
+title: "CORRESPONDING Usage"
+description: ABAP development notes and examples for CORRESPONDING Usage
+---
+
 # ABAP CORRESPONDING — Usage
 
 CORRESPONDING maps fields by name between structures/tables.
