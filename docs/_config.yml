@@ -1,41 +1,21 @@
 title: ABAP Learning Toolkit
 description: Comprehensive ABAP programming notes, examples, and best practices for SAP developers
-theme: minima
-markdown: kramdown
-highlighter: rouge
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+baseurl: ""
+url: "http://localhost:4000"
 
 # Build settings
-kramdown:
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: 'highlight'
+markdown: kramdown
+highlighter: rouge
 
-# Navigation
-header_pages:
-  - index.md
-
-# GitHub Pages settings
-github_username: phanikumarvankadari
-repository: abap-learning-toolkit
-
-# SEO settings
-url: "https://phanikumarvankadari.github.io"
-baseurl: ""
+# Basic plugins only
+plugins:
+  - jekyll-feed
 
 # Exclude from processing
 exclude:
   - .sass-cache/
   - .jekyll-cache/
-  - gemfiles/
   - Gemfile
   - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - vendor/
   - .DS_Store
