@@ -1,0 +1,60 @@
+name: Deploy ABAP Learning Toolkit to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'docs/**'
+      - '*.md'
+      - 'attachments/**'
+      - '.github/workflows/deploy-pages.yml'
+  workflow_dispatch: {}
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Prepare site content
+        run: |
+          # Copy docs content to temp site directory
+          mkdir -p /tmp/site
+          rsync -a --delete docs/ /tmp/site/
+          echo "Prepared /tmp/site with $(find /tmp/site -type f | wc -l) files"
+
+      - name: Configure git
+        run: |
+          git config --global user.name "Phani Kumar (CI)"
+          git config --global user.email "ci@users.noreply.github.com"
+
+      - name: Deploy to GitHub Pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          cd /tmp/site
+          git init
+          git checkout -b main
+          
+          # Set remote with token
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/phanikumarvankadari/phanikumarvankadari.github.io.git"
+          
+          # Create backup if main branch exists
+          if git ls-remote --exit-code --heads origin main >/dev/null 2>&1; then
+            echo "Creating backup of existing content..."
+            git fetch origin main:origin-main
+            ts=$(date +%Y%m%d-%H%M%S)
+            git branch backup-abap-${ts} origin-main
+            git push origin backup-abap-${ts}:backup-abap-${ts}
+            echo "Backup created: backup-abap-${ts}"
+          fi
+          
+          # Add and commit site content
+          git add .
+          git commit -m "deploy: ABAP Learning Toolkit ($(date '+%Y-%m-%d %H:%M:%S'))" || exit 0
+          git push -u origin main --force
+          
+          echo "✅ Deployed to https://phanikumarvankadari.github.io"
+
