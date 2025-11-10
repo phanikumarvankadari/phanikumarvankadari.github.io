@@ -3,14 +3,6 @@ description: Comprehensive ABAP programming notes, examples, and best practices 
 baseurl: ""
 url: "https://phanikumarvankadari.github.io"
 
-# Exclude files from processing
-exclude:
-  - REPOSITORY.md
-  - sync-docs.sh
-  - AGENTS.md
-  - Gemfile
-  - Gemfile.lock
-
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -19,11 +11,14 @@ highlighter: rouge
 plugins:
   - jekyll-feed
 
-# Exclude from processing
+# Exclude files from processing
 exclude:
-  - .sass-cache/
-  - .jekyll-cache/
+  - REPOSITORY.md
+  - sync-docs.sh
+  - AGENTS.md
   - Gemfile
   - Gemfile.lock
+  - .sass-cache/
+  - .jekyll-cache/
   - vendor/
   - .DS_Store
